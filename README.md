@@ -1,6 +1,5 @@
 # UnityGameScene
  Game scene
-Learning Goal: I'm working on a computer science question and need support to help me learn.
 
 Background: Professor Price made you roll a character by hand, on paper. Then he made you do it as a scene in Unity. Now he wants you to create a menu system that will act as a scaffolding for the development of the rest of the semester. Show him that you can do this! Create a game with a menu system that includes your character generator UI that also satisfies the following requirements.
 
